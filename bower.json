@@ -1,0 +1,32 @@
+{
+  "name": "dane-portfolio-angularjs",
+  "description": "The portfolio of Branden Dane. Rewritten in AngularJS, Suzy, SASS, and other fun goodies.",
+  "main": "index.html",
+  "authors": [
+    "Branden Dane"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "danetheory",
+    "branden",
+    "dane",
+    "angularjs",
+    "sass",
+    "suzy",
+    "developer"
+  ],
+  "moduleType": [],
+  "homepage": "http://nuketown.danetheory.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "~2.2.6",
+    "compass-breakpoint": "breakpoint-sass#~2.6.1"
+  }
+}
